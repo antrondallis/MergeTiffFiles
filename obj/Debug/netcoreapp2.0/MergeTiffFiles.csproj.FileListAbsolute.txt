@@ -1,0 +1,13 @@
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\bin\Debug\netcoreapp2.0\MergeTiffFiles.deps.json
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\bin\Debug\netcoreapp2.0\MergeTiffFiles.runtimeconfig.json
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\bin\Debug\netcoreapp2.0\MergeTiffFiles.runtimeconfig.dev.json
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\bin\Debug\netcoreapp2.0\MergeTiffFiles.dll
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\obj\Debug\netcoreapp2.0\MergeTiffFiles.csprojAssemblyReference.cache
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\obj\Debug\netcoreapp2.0\MergeTiffFiles.csproj.CoreCompileInputs.cache
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\obj\Debug\netcoreapp2.0\MergeTiffFiles.AssemblyInfoInputs.cache
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\obj\Debug\netcoreapp2.0\MergeTiffFiles.AssemblyInfo.cs
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\bin\Debug\netcoreapp2.0\MergeTiffFiles.pdb
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\obj\Debug\netcoreapp2.0\MergeTiffFiles.dll
+c:\users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\obj\Debug\netcoreapp2.0\MergeTiffFiles.pdb
+C:\Users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\obj\Debug\netcoreapp2.0\MergeTiffFiles.Properties.Resources.resources
+C:\Users\adallis\source\repos\ServiceCardsTesting\MergeTiffFiles\obj\Debug\netcoreapp2.0\MergeTiffFiles.csproj.GenerateResource.cache
